@@ -1,0 +1,1 @@
+aws cloudformation create-stack --stack-name CapstoneEKSNode --template-body file://CapstoneEKSNode.yml --capabilities CAPABILITY_NAMED_IAM
